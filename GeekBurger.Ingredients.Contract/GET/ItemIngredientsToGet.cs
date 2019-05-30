@@ -6,6 +6,6 @@ namespace GeekBurger.Ingredients.Contract.GET
 {
    public class ItemIngredientsToGet
     {
-        public string Nome { get; set; }
+        public string Nome { get; set; } 
     }
 }
